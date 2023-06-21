@@ -8,5 +8,5 @@ $ cd Wafer
 
 # install the requirements
 $ pip install -r requirements.txt
-#run application 
+# Run application
 $ main.py
